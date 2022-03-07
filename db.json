@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Alex",
+      "branch": "ME",
+      "university": "Oxford",
+      "mobileno": "9876543210"
+    },
+    {
+      "id": 2,
+      "name": "peter",
+      "branch": "CSE",
+      "university": "VTU",
+      "mobileno": "9784561230"
+    },
+    {
+      "id": 3,
+      "name": "Bennen",
+      "branch": "EEE",
+      "university": "Anna",
+      "mobileno": "9456781230"
+    },
+    {
+      "id": 4,
+      "name": "Joseph",
+      "branch": "ECE",
+      "university": "Cambridge",
+      "mobileno": "9321456870"
+    },
+    {
+      "id": 5,
+      "name": "Sundar",
+      "branch": "ISE",
+      "university": "Almond",
+      "mobileno": "9362514780"
+    },
+    {
+      "id": 6,
+      "name": "Exam",
+      "branch": "ME",
+      "university": "VTU",
+      "mobileno": "32569887564"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

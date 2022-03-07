@@ -1,0 +1,10 @@
+@media only screen and (max-width: 480px) {
+   
+       td{
+            width:  20%;
+            margin: 0px;
+            padding: 0px;
+            align-items: center;
+          }
+    
+    }
